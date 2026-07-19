@@ -131,26 +131,31 @@ p {
 /* 料理説明と写真 */
 .menulist {
   display: grid;
-  grid-template-columns: 2fr 2fr;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+  align-items: stretch;
   margin-top: 30px;
-  margin-left: 50px;
-  margin-right: 50px;
-  gap: 50px 50px;
+  margin-bottom: 60px;
 }
 
 .item {
-  width: auto;
-  height: auto;
+  width: 80%;
+  height: 100%;
   text-align: center;
   background-color: #fff;
+  margin: 0 auto;
   padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
   border-radius: 3%;
 }
 
 .item img {
+  display: block;
   width: 100%;
   max-width: 300px;
   height: auto;
+  margin: 0 auto;
 }
 
 /* 内装 */
