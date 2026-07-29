@@ -7,5 +7,14 @@
 ## 使用技術
 - HTML5
 - CSS3
+- Javascript
 - Figma
 - GIMP
+
+7/30
+以下の内容を修正しました。
+・ヘッダー部分にパンくずリストの追加
+・ConceptにJavascriptの追加
+・Menuを別ページに移動
+・店舗情報の追記
+・各セクションに背景を追加
