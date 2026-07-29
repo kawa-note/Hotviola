@@ -209,7 +209,6 @@ p {
 
 /* 内装 */
 .Interior {
-  background-image: url(../img/background_Interior\(PC\).jpg);
   background-size: cover;
 }
 
@@ -493,7 +492,6 @@ footer {
 
   /* 内装 */
   .Interior {
-    background-image: url(../img/background_Interior.jpg);
     background-size: cover;
   }
 
