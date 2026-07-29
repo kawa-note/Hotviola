@@ -178,6 +178,7 @@ p {
 .menu {
   background-image: url(../img/background__Menu\(PC\).jpg);
   background-size: cover;
+  background-position: center;
 }
 .menu_top {
   display: flex;
