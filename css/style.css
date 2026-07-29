@@ -512,6 +512,9 @@ footer {
   .info {
     display: block;
   }
+  .info h2 {
+    margin-bottom: 10px;
+  }
 
   .informationlist td,
   .informationAccess td {
@@ -522,6 +525,10 @@ footer {
   .map img {
     width: 100%;
     height: auto;
+  }
+
+  .Instagram {
+    margin-top: 50px;
   }
 
   /* フッター */
